@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\Visual Studio\Projects\Flappy Bird\Flappy Bird\scoreboard.hpp(47,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Visual Studio\Projects\Flappy Bird\Flappy Bird\main.cpp(41,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Visual Studio\Projects\Flappy Bird\Flappy Bird\main.cpp(104,65): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Visual Studio\Projects\Flappy Bird\Flappy Bird\main.cpp(107,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Flappy Bird.vcxproj -> E:\Visual Studio\Projects\Flappy Bird\Debug\Flappy Bird.exe
